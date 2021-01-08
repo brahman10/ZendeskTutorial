@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZendeskTutorial</string>
+    <string name="appid">25b7c6915b329a012f39fb701a277f44693562a056ac6f33</string>
+    <string name="clientid">mobile_sdk_client_ec67dafab90629bc87ec</string>
+</resources>
